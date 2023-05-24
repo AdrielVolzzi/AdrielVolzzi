@@ -1,5 +1,5 @@
 ### Olá, me chamo Adriel Volzzi / Hi, I’m Adriel Volzzi 👋
-#### Buscando um estágio / Looking for a internship
+#### Buscando um estágio / Looking for an internship
 [![Portfolio](https://img.shields.io/website?label=datascienceportfol.io&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://www.datascienceportfol.io/adrielvolzzi)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrielvolzzi/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adrielvolzzi)
@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielVolzzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que mais uso / Technologies I use
+### Tecnologias que mais uso / Technologies I use the most
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
