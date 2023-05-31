@@ -5,8 +5,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adrielvolzzi)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriel2.sales@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielVolzzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias que mais uso / Technologies I use the most
 
 <div style="display: inline_block"><br/>
